@@ -1,0 +1,55 @@
+
+
+/* Animaciones */
+.animated {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+.fast {
+  -webkit-animation-duration: 0.4s;
+  animation-duration: 0.4s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.linea{
+  width: 23%;
+  background: #d09844;
+}
+.linea2{
+  width: 23%;
+  background: #FFF;
+}
+a{
+  text-decoration: none;
+}
+li{
+  list-style: none;
+}
+/* #primera {
+ -webkit-transition: all 0.5s ease-out;
+ -moz-transition: all 0.5s ease;
+ -ms-transition: all 0.5s ease;
+} */
+#primera img:hover {
+ -webkit-transform: rotate(-160deg);
+ -moz-transform: rotate(-160deg);
+ -ms-transform: rotate(-160deg);
+ transform: rotate(-160deg);
+}
+footer{
+  padding-bottom: 0;
+}
