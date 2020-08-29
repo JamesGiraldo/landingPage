@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class BodyComponent implements OnInit {
   public titulo1 = `Tutorias online`;
-  public titulo2 = `Clases en vivo`;  
+  public titulo2 = `Clases en vivo`;
   public suscripcion = '20%';
   constructor() { }
 

@@ -1,0 +1,60 @@
+
+/* sesion de presupuestos */
+.cabeza1{
+  position: absolute;
+  left: 30%;
+  top: 13%;
+  color: white;
+}
+.info1{
+  position: absolute;
+  top: 38%;
+  left: 18%;
+  text-align: -webkit-match-parent;
+}
+.info1 h5{
+  position: absolute;
+  font-size: 50px;
+}
+.info1 p{
+  margin-left: 20%;
+}
+.pie1{
+  position: absolute;
+  top: 67%;
+  margin: -2px;
+  margin-left: 18%;
+  width: 100%;
+}
+.pie{
+  position: absolute;
+  top: 74%;
+  margin: -2px;
+  margin-left: 18%;
+  width: 100%;
+}
+.info{
+  position: absolute;
+  top: 51.5%;
+  left: 18%;
+  text-align: -webkit-match-parent;
+}
+.info h5{
+  position: absolute;
+  font-size: 50px;
+}
+.info p{
+  margin-left: 20%;
+}
+.subcabeza{
+  position: relative;
+  left: 25%;
+  top: 33%;
+  color: white;
+}
+.cabeza{
+  position: relative;
+  float: right;
+  top: 10%;
+}
+/* fin de sesion de presupuestos */

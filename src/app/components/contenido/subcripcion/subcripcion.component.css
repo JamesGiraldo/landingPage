@@ -1,74 +1,53 @@
-/* sesion de subcripcion 2*/
-.triangulo2{
+/* sesion de subcripcion */
+.triangulo1{
   position: absolute;
   left: 42%;
-}
-.imgSub{
-  margin-top: 20px;
 }
 .porsentaje{
   position: absolute;
   font-size: 150px;
-  top: 489%;
+  top: 207%;
   left: 42.5%;
   color: white;
 }
-.titSub h2{
+.tituSub h2{
   position: absolute;
-  top: 519%;
+  top: 239%;
   color: white;
   left: 40%;
   font-size: 70px;
 }
-.texto1{
-  position: absolute;
-  left: 38%;
-  top: 36%;
-  color: white;
-}
-.texto1 h1{
-  font-size: 60px;
-}
-.texto1 h5{
-  font-size: 30px;
-}
-.texto1 .linea1{
-  color: white;
-  left: 20%;
-  position: absolute;
-  top: 38.5%;
-  font-size: 25px;
-}
-.titSub .liSub{
+.tituSub .lineaSub{
   color: white;
   position: absolute;
-  top: 524.5%;
+  top: 244.5%;
   left: 42%;
   font-size: 30px;
 }
-.titSub p{
+.tituSub p{
   position: absolute;
-  top: 530.5%;
+  top: 249.5%;
   color: white;
   left: 37.5%;
   font-size: 40px;
 }
-.btSub{
+.btnSub{
   position: absolute;
-  top: 540.5%;
+  top: 258.5%;
   left: 46%;
   padding: -100px;
 }
-.popSub{
+.popupSub{
   position: absolute;
-  top: 545.5%;
+  top: 263.5%;
   left: 47.8%;
   width: 15%;
 }
-.acepSub p{
+.aceptoSub p{
   position: absolute;
-  top: 549%;
+  top: 267%;
   color: #ffffff;
   left: 48.5%;
   font-size: 21px;
 }
+/* fin sesion de subcripcion */

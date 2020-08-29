@@ -1,0 +1,15 @@
+.footer p{
+  font-size: 20px;
+}
+.informacionPie{
+  position: absolute;
+  color: white;
+  left: 20%;
+  top: 676%;
+}
+.logoYoutube{
+  position: absolute;
+  color: green;
+  right: 20%;
+  top: 684%;
+}
